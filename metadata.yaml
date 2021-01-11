@@ -1,0 +1,32 @@
+_repo: The-Strange-Visitation_64152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corelli, Marie
+    aliases:
+    - Mackay, Mary
+    - Corelli, Maria
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '1321'
+    url: http://www.gutenberg.org/2009/agents/1321
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Corelli
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Religious fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Ghost stories'
+- GITenberg
+title: The Strange Visitation
+url: http://www.gutenberg.org/ebooks/64152
